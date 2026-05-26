@@ -14,3 +14,19 @@ The analysis was conducted using Excel, including data cleaning, KPI creation, e
 
 The main objective of this project is to understand sales performance and identify opportunities to improve revenue and operational efficiency.
 
+🛠️ Tools Used
+Microsoft Excel
+Pivot Tables
+Excel Charts
+Business KPI Analysis
+
+🧹 Data Cleaning
+
+Several preprocessing steps were performed before the analysis:
+
+Removal of duplicate records
+Handling missing values
+Data formatting and normalization
+Verification of inconsistent product IDs
+Renaming columns for clarity
+
