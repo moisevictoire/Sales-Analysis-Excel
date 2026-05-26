@@ -30,3 +30,14 @@ Data formatting and normalization
 Verification of inconsistent product IDs
 Renaming columns for clarity
 
+
+📊 Key Performance Indicators (KPIs)
+
+The following KPIs were analyzed:
+
+Total Revenue
+Number of Sales
+Average Basket Value
+Monthly Sales Evolution
+Top Performing Products
+
