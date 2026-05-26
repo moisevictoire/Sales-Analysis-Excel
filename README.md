@@ -44,7 +44,6 @@ Afin d’améliorer la qualité de l’analyse, plusieurs transformations ont é
 - Traitement des incohérences de données sur les ventes
 - Création d’un montant théorique pour garantir la cohérence des analyses
 
-![Dashboard](images/Données_transformées_csv_en_excel.png)
 
 ----
 
