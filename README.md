@@ -45,7 +45,7 @@ Afin d’améliorer la qualité de l’analyse, plusieurs transformations ont é
 - Création d’un montant théorique pour garantir la cohérence des analyses
 
 
-![Transformation des données](images/avant formatage.png)
+![Dashboard](images/avant_formatage.png)
 
 ----
 
