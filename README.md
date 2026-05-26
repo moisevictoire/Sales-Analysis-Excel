@@ -16,9 +16,6 @@ L'objectif est de structurer, nettoyer et analyser ces données de ventes afin d
 
 L'analyse a été réalisée à l'aide d'Excel et comprenait le nettoyage des données, la création d'indicateurs clés de performance (KPI), l'analyse exploratoire et la conception d'un tableau de bord.
 
-## 🎯 Objectif Business
-L'objectif principal de ce projet est de comprendre les performances commerciales et d'identifier les possibilités d'améliorer le chiffre d'affaires et l'efficacité opérationnelle.
-
 ---
 
 ## 🛠️ Outils utilisés
