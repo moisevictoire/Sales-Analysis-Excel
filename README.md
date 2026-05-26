@@ -45,6 +45,7 @@ Afin d’améliorer la qualité de l’analyse, plusieurs transformations ont é
 - Création d’un montant théorique pour garantir la cohérence des analyses
 
 ![Dashboard](images/avant formatage.png)
+
 ----
 
 ## 📊 KPI analysés
