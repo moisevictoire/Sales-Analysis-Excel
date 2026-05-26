@@ -20,9 +20,9 @@ L'analyse a été réalisée à l'aide d'Excel et comprenait le nettoyage des do
 
 ## 🛠️ Outils utilisés
 - Microsoft Excel
-- Pivot Tables
-- Excel Charts
-- Business KPI Analysis
+- Tableaux croisés dynamiques
+- Graphiques Excel
+- Analyse des indicateurs clés de performance (KPI)
 
 ---
 
